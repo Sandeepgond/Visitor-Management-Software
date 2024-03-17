@@ -1,3 +1,6 @@
-#For Login as Admin 
-#username : admin
-passworrd :1234
+## Admin Login Credentials
+
+To login as an admin, you can use the following credentials:
+
+- **Username:** admin
+- **Password:** 1234
